@@ -1,0 +1,20 @@
+@media screen and (max-width: 1031px){
+	.breadcrumb li a:before,.breadcrumb li a:after{
+	border: 0px!important;
+	}
+	.breadcrumb li a{text-align:left;padding:10px 10px 10px 10px!important;width: 100%;}
+	.breadcrumb li{display: block;width: 100%;}
+}
+@media screen and (max-width: 1010px){.desk-bar{display: none;} .mob-bar{display: block;}}
+@media screen and (max-width: 970px){.uk-navbar-nav>li>a{padding:  0 10px;}}
+@media screen and (max-width: 650px){
+	.header_banner-logo{width: 100%;text-align: center;height: auto;}
+	.header_banner-logo img{position: relative;}
+	.header_banner-text{max-width: initial; text-align: center;margin-bottom: 20px;}
+	.header_banner-text p{display: initial;font-size: 2.3em;}
+	.leftnav{margin-bottom: 20px!important; height: 200px;}
+	.events img{width: 100%;max-width: initial; margin-bottom: 10px;}
+	.uk-subnav{margin-left: 0px;}
+	.k-12-title{padding: initial;height:auto;line-height: 1.2;background-color: transparent; }
+	.text-title{-webkit-box-reflect:none!important;}
+} 
