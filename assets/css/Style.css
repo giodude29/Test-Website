@@ -800,3 +800,8 @@ background: #FFF
   {
     text-decoration: none;
   }
+  .searchbox
+  {
+    width: 13.2em;
+    max-width: 100%;
+  }
