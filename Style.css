@@ -796,3 +796,7 @@ background: #FFF
   { 
   color: #fff!important;
   }
+  .uk-icon-download a:hover
+  {
+    text-decoration: none;
+  }
